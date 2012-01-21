@@ -1,0 +1,82 @@
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    color: #d9d9d9;
+    background-color: #111111;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+header h1 {
+    padding-left: 120px;
+    background: url(../images/app-icon.png) left no-repeat;
+}
+
+h1, h2 {
+    color: #d9d9d9;
+    margin-bottom: 0;
+    font-weight: bolder;
+}
+
+header h1 {
+    font-size: 3.5em;
+    font-weight: bold;
+    color: white;
+    line-height: 74px;
+}
+
+section {
+    margin-bottom: 1.5em;
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.6em;
+    color: #d9d9d9;
+}
+
+h2 {
+    margin: 0;
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+
+
+ul {
+    font-size: 1.5em;
+    line-height: 35px;
+    margin-bottom: 0;
+}
+
+.app-store-links li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 1em;
+}
+
+.pics img {
+    padding: 5px;
+    border: solid 2px black;
+    background-color: #eee;
+    width: 480px;
+    height: 800px;
+    top: 0;
+    left: 0;
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.donate{
+    color: #22AAff;
+}
+
+a.email{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
